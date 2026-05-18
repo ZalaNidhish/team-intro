@@ -106,7 +106,14 @@ Linkedin : https://www.linkedin.com/in/nidhish-zala
 Team Leader : Nidhish
 ------------------------------
 
-  [ Your entry goes below this line ]
+Name     : Kashish Gandhi
+college  : CHARUSAT
+Skills   : CLOUD(AWS)
+Email    : kashishgandhi.278@gmail.com
+phone    : 9512952812
+GitHub   : https://github.com/hustlerkashish
+Linkedin : https://www.linkedin.com/in/kashishgandhi-639aa4287
+Team Leader : Nidhish
 
 Name     : Dhruv Jani
 college  : BVM
