@@ -108,4 +108,15 @@ Team Leader : Nidhish
 
   [ Your entry goes below this line ]
 
+------------------------------
+Name     : Dhruvil
+college  : BVM
+Skills   : Frontend Developer
+Email    : dhruvilgandhi1203@gmail.com
+phone    : 7779003922
+GitHub   : https://github.com/dhruvil-1207
+Linkedin : www.linkedin.com/in/dhruvil-gandhi
+Team Leader : Meet
+------------------------------
+
 ============================================================
