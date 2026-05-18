@@ -108,6 +108,14 @@ Team Leader : Nidhish
 
   [ Your entry goes below this line ]
 
+Name     : Dhruv Jani
+college  : BVM
+Skills   : Full Stack Developer
+Email    : dhruv.jani.0808@gmail.com
+phone    : 7600808675
+GitHub   : https://github.com/dhruv-jani-0808
+Linkedin : https://www.linkedin.com/in/dhruv-jani-366604326
+Team Leader : Meet
 ============================================================
 
 Name     : Manan Monani
