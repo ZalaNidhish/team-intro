@@ -236,3 +236,12 @@ phone    : 9157728798
 GitHub   : https://github.com/Hima1510
 Linkedin : https://www.linkedin.com/in/hima-mehta-549436318
 Team Leader : Nidhish
+
+Name     : James Dhandhukiya
+college  : CHARUSAT
+Skills   : Data Science
+Email    : jamesdhandhukiya@gmail.com
+phone    : 9023271511
+GitHub   : https://github.com/Jamesdhandhukiya
+Linkedin : https://www.linkedin.com/in/jamesdhandhukiya23
+Team Leader : Nidhish
