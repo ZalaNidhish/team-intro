@@ -236,3 +236,12 @@ phone    : 9157728798
 GitHub   : https://github.com/Hima1510
 Linkedin : https://www.linkedin.com/in/hima-mehta-549436318
 Team Leader : Nidhish
+
+Name     : Anshul Jangid
+college  : CHARUSAT
+Skills   : CyberSecurity
+Email    : anshuljangid200327@gmail.com
+phone    : 9001201954
+GitHub   : https://github.com/anshuljangid28
+Linkedin : https://www.linkedin.com/in/anshul-jangid-2b3480283/
+Team Leader : Nidhish
