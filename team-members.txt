@@ -210,3 +210,11 @@ GitHub   :  https://github.com/rituchaudhary-07
 Linkedin : https://www.linkedin.com/in/ritu-chaudhari-335532331
 Team Leader : Nidhish
 
+Name     : Akshara Pandya
+college  : CHARUSAT - DEPSTAR
+Skills   : Data Science
+Email    : pandyaakshara09@gmail.com
+phone    : 7984009723
+GitHub   : https://github.com/Akshara369
+Linkedin : https://www.linkedin.com/in/akshara-pandya
+Team Leader : Meet
