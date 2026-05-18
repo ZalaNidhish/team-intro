@@ -96,12 +96,12 @@
 
 ------------------------------
 ( Example Entry — Copy & Replace with your details )
-Name     : Het
-college  : Charusat
-Skills   : Python, JavaScript
-Email    : het@example.com
-phone    : 1234567890
-GitHub   : @het
+Name     : Nidhish
+college  : BVM
+Skills   : Full Stack Developer
+Email    : nidhish1132007@gmail.com
+phone    : 9016325239
+GitHub   : ZalaNidhish
 ------------------------------
 
   [ Your entry goes below this line ]
