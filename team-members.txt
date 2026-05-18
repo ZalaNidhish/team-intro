@@ -107,6 +107,15 @@ Team Leader : Nidhish
 ------------------------------
 
 
+Name     : Uday
+college  : BVM
+Skills   : Full Stack Developer
+Email    : udaygadhavi2410@gmail.com
+phone    : 8734939148
+GitHub   : https://github.com/KraisuN-1010
+Linkedin : https://www.linkedin.com/in/gadhavi-uday
+Team Leader : Meet
+
 Name     : Harmit
 college  :Charusat University of Science and technology
 Skills   :Java Backend development
