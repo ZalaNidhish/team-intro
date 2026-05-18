@@ -107,7 +107,8 @@ Team Leader : Nidhish
 ------------------------------
 
   [ Your entry goes below this line ]
-  ------------------------------
+  
+
 Name     : Prince Ghevariya
 college  : CHARUSAT - DEPSTAR
 Skills   : AI/ML
@@ -116,7 +117,15 @@ phone    : 9925128371
 GitHub   : https://github.com/PrinceGhevariya-23DCS033
 Linkedin : https://www.linkedin.com/in/prince-ghevariya-9614b128b/
 Team Leader : Nidhish
-------------------------------
+
+Name     : Dhaval Prajapati
+college  : BVM
+Skills   : Frontnd + MERN Developer 
+Email    : dhavalprajapati5115@gmail.com
+phone    : 6354012336
+GitHub   : https://github.com/Dhaval-0511
+Linkedin : www.linkedin.com/in/dhaval-prajapati-a62401292
+Team Leader : Jay Vaghela
 
 Name     : Dhruvil
 college  : BVM
