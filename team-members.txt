@@ -152,3 +152,12 @@ GitHub   : https://github.com/manan-monani
 Linkedin : https://www.linkedin.com/in/mananmonani/
 Portfolio: https://mananmonani.vercel.app/
 Team Leader : Nidhish
+
+Name     : Chandni Kothari
+college  : CHARUSAT
+Skills   : Data Science
+Email    : kotharichandni183@gmail.com
+phone    : 8160410272
+GitHub   : https://github.com/Chandni-K12
+Linkedin : https://www.linkedin.com/in/chandnikothari12/
+Team Leader : Nidhish
