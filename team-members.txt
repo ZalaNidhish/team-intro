@@ -97,6 +97,7 @@
 ------------------------------
 ( Example Entry — Copy & Replace with your details )
 Name     : Het
+college  : Charusat
 Skills   : Python, JavaScript
 Email    : het@example.com
 phone    : 1234567890
