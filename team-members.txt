@@ -105,7 +105,13 @@ GitHub   : https://github.com/ZalaNidhish
 Linkedin : https://www.linkedin.com/in/nidhish-zala
 Team Leader : Nidhish
 ------------------------------
-
-  [ Your entry goes below this line ]
-
+Name     : Harmit
+college  :Charusat University of Science and technology
+Skills   :Java Backend development
+Email    : harmitjetani@gmail.com
+phone    : 9426739895
+GitHub   : https://github.com/Harmit07
+Linkedin : https://www.linkedin.com/in/harmit-jetani-a17501283/
+Team Leader : Nidhish
 ============================================================
+
